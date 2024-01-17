@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.navcontainer {
+    background-image: url(./Asset/Img/menu-bg.jpg);
+}
+.getbutton {
+    background-color: #18AFDF;
+}
