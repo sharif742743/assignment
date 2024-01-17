@@ -3,9 +3,61 @@
     padding: 0;
     box-sizing: border-box;
 }
+nav {
+    position: sticky;
+    top: 0%;
+}
 .navcontainer {
     background-image: url(./Asset/Img/menu-bg.jpg);
+    
 }
 .getbutton {
     background-color: #18AFDF;
+}
+head {
+    position: relative;
+    top:-150px;
+}
+.headcontainer {
+    background-image: url(./Asset/Img/headerimg.jpg);
+    height: 900px;
+    background-size:cover;
+    margin-top: -130px;
+
+    
+}
+.PRICELISTbutton {
+    background-color: #18AFDF;
+}
+.LEARNMOREbutton {
+    background-color: white;
+    color: #18AFDF;
+}
+.weight {
+    font-weight: 400;
+}
+.img1 {
+    background-image: url(./Asset/Img/3d.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img2 {
+    background-image: url(./Asset/Img/product.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img3 {
+    background-image: url(./Asset/Img/cgi.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.shadow {
+    box-shadow: 2px 0 5px black, -2px 0 5px black, 0 2px  5px black, 0 -2px 5px black;
+}
+.bggg {
+    background-image: url(./Asset/Img/door-image.png);
+    background-size: cover;
+}
+.howitwork {
+    background-image: url(./Asset/Img/How-We-Works-1.jpg);
 }
