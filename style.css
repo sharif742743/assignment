@@ -52,7 +52,7 @@ head {
     background-repeat: no-repeat;
 }
 .shadow {
-    box-shadow: 2px 0 5px black, -2px 0 5px black, 0 2px  5px black, 0 -2px 5px black;
+    box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.1), -1px -1px 5px 0px rgba(0,0,0,0.3);
 }
 .bggg {
     background-image: url(./Asset/Img/door-image.png);
@@ -60,4 +60,17 @@ head {
 }
 .howitwork {
     background-image: url(./Asset/Img/How-We-Works-1.jpg);
+}
+.video {
+    background-image: url(./Asset/Img/imgonline-com-ua-resize-MynoIKG1nuZ30.jpg);
+
+    background-size: cover;
+}
+.i1 {
+    background-image: url(./Asset/Img/i1.png);
+    background-size: cover;
+    
+}
+.maini {
+    box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.1), -1px -1px 5px 0px rgba(0,0,0,0.3);
 }
