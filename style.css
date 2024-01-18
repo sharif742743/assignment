@@ -60,6 +60,7 @@ head {
 }
 .howitwork {
     background-image: url(./Asset/Img/How-We-Works-1.jpg);
+    background-size: cover;
 }
 .video {
     background-image: url(./Asset/Img/imgonline-com-ua-resize-MynoIKG1nuZ30.jpg);
@@ -73,4 +74,64 @@ head {
 }
 .maini {
     box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.1), -1px -1px 5px 0px rgba(0,0,0,0.3);
+}
+.img11 {
+    background-image: url(./Asset/Img/send.png);
+    background-size: cover;
+}
+.img22 {
+    background-image: url(./Asset/Img/create.png);
+    background-size: cover;
+}
+.img33 {
+    background-image: url(./Asset/Img/download.png);
+    background-size: cover;
+}
+.quick {
+    background-image: url(./Asset/Img/QUICK.png);
+    background-size: cover;
+}
+.resoonable {
+    background-image: url(./Asset/Img/REASONABLE.png);
+    background-size: cover;
+}
+.flixible {
+    background-image: url(./Asset/Img/FLEXIBLE.png);
+    background-size: cover;
+}
+.techonology4 {
+    background-image: url(./Asset/Img/V-ray.png);
+    background-size: cover;
+}
+.techonology1 {
+    background-image: url(./Asset/Img/3Ds-max.png);
+    background-size: cover;
+}
+.techonology2 {
+    background-image: url(./Asset/Img/Blender-1.png);
+    background-size: cover;
+}
+.techonology3 {
+    background-image: url(./Asset/Img/Z-Brush.png);
+    background-size: cover;
+}
+.techonology5 {
+    background-image: url(./Asset/Img/Corona.png);
+    background-size: cover;
+}
+.techonology6 {
+    background-image: url(./Asset/Img/Painter.png);
+    background-size: cover;
+}
+.fotterimg {
+    background-image: url(./Asset/Img/fotterimg.jpeg);
+    background-size: cover;
+}
+.cgiphoto {
+    background-image: url(./Asset/Img/cgi-photography.png);
+    background-size: cover;
+   
+}
+.bgicon {
+   background-color: rgb(57, 57, 73);
 }
